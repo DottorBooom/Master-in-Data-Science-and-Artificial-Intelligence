@@ -17,8 +17,9 @@ Feel free to ask me questions, correct me or advise me.
 
 ### First semester:
 
-+ [Introduction to cloud computing](https://github.com/DottorBooom/Cloud-computing) (First module of 2 part course)
-+ [Statistical methods](https://github.com/DottorBooom/Statistical-methods) (First module of 2 part course)
++ [Introduction to cloud computing](https://github.com/DottorBooom/Cloud-computing) (First module of 2 part course*)
++ [High Performance Computing](https://github.com/DottorBooom/High-Performance-Computing) (Second module of 2 part course*)
++ [Statistical methods](https://github.com/DottorBooom/Statistical-methods) (First module of 2 part course')
 + [Machine learning operations](https://github.com/DottorBooom/Machine-learning-operations)
 + [Global and multi-objective optimization](https://github.com/DottorBooom/Global-and-multi-objective-optimization)
-+ [Data mining](https://github.com/DottorBooom/Data-mining) (First module of 2 part course)
++ [Data mining](https://github.com/DottorBooom/Data-mining) (First module of 2 part course°)
